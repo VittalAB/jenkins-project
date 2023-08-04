@@ -2,6 +2,6 @@ public class FirstJava
 {
 	public static void main(String[] args)
 	{
-		system.out.println("Hello welcome to jenkins");
+		system.out.println("Hello welcome to jenkins doing freestyle job :)");
 	}
 }
